@@ -1,1 +1,2 @@
-# dino-game
+# jump-game
+using javascript and css
