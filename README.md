@@ -1,3 +1,3 @@
 # T-rex dino 
 #
-using HTML, CSS and JavaScript
+T-rex game using HTML, CSS and JavaScript
